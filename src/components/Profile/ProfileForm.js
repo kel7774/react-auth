@@ -1,4 +1,4 @@
-import classes from './ProfileForm.module.css';
+import classes from './ProfileForm.module.css'
 
 const ProfileForm = () => {
   return (
@@ -11,7 +11,7 @@ const ProfileForm = () => {
         <button>Change Password</button>
       </div>
     </form>
-  );
+  )
 }
 
-export default ProfileForm;
+export default ProfileForm
